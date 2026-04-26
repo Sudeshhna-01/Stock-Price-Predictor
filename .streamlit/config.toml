@@ -1,0 +1,14 @@
+[global]
+developmentMode = false
+dataFrameSerialization = "legacy"
+
+[logger]
+level = "info"
+
+[client]
+showSidebarNavigation = true
+showErrorDetails = false
+
+[server]
+headless = true
+port = 8501

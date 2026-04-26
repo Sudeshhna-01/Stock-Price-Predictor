@@ -1,0 +1,16 @@
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+torch
+pmdarima
+plotly
+streamlit
+arch
+fastapi
+uvicorn[standard]
+apscheduler
+requests
